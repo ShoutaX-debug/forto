@@ -84,12 +84,7 @@ const MyPage = () => {
 											delay: 0.4,
 											type: "spring",
 										}}>
-										A junior fullstack developer who
-										currently focused on Web Development.
-										Other than that, I also interested in
-										UX/UI Design, Mobile and AI Development.
-										I love to learn new things and always
-										open to new opportunities.
+										Nama saya Sigit, seorang pengembang web yang antusias di bidang ini. Saat ini, saya masih bersekolah di SMA dan terus belajar untuk mengembangkan skill saya.
 									</motion.p>
 									<motion.div
 										className="buttons flex flex-row justify-center items-center space-x-4 mt-10"
