@@ -12,7 +12,7 @@ export const metadata = {
     title: "Alvalens | Portofolio",
 
     description:
-		"My name is Alvalens, I'm a web developer and I'm passionate about it. I'm currently studying at Universitas Negeri Malang.",
+		"My name is Sigitardis, I'm a web developer and I'm passionate about it. I'm currently studying at Universitas Negeri Malang.",
 
     author: "Alvalen Shafelbilyunazra",
     siteUrl: "https://www.alvalens.my.id",
